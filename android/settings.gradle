@@ -1,0 +1,3 @@
+rootProject.name = 'musicshared_4349'
+
+include ':app'
